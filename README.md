@@ -3,7 +3,7 @@
 ![Soraya Sanchez](https://user-images.githubusercontent.com/100691940/168684733-b85f07e2-f89b-4632-b7c9-01a9be6ec448.png)
 ```js
 const SanchezSoraya = {
-  code: [Angular, Javascript, Typescript, HTM, CSS],
+  code: [Angular, Javascript, Typescript, HTML, CSS],
   tools: [Nodejs, Styled-Components],
   }
   ```
