@@ -1,4 +1,4 @@
-### Bienvenidos a mis GitHub👋
+### Bienvenidos a mi GitHub👋
 
 <!--
 **SanchezSoraya/SanchezSoraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
