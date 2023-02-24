@@ -4,7 +4,7 @@
 ```js
 const SanchezSoraya = {
   Languages: [Javascript],
-  Frameworks: [Nodejs, Angular, Typescript],
+  Frameworks: [Nodejs, React, Typescript],
   }
   ```
 <!--
